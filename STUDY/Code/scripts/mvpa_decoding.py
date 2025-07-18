@@ -56,7 +56,7 @@ plot_dir = study_path / "Plots" / "mvpa"
 plot_dir.mkdir(parents=True, exist_ok=True)  # Create the directory if it doesn't exist
 
 # Path of the epochs data in bids format
-bids_derivatives_dir = study_path / "Data" / "eeg" / "derivatives" / "preproc"
+bids_derivatives_dir = study_path / "Data" / "eeg" / "derivatives" / "epochs"
 
 # Path of the inputs for the electrodes selection
 inputs_dir = study_path / "Code" / "inputs"
