@@ -1,4 +1,4 @@
-README - Behavioral Data Description
+## README - Behavioral Data Description
 This README describes the columns and data contained in the behavioral dataset files (.csv or .xlsx).
 
 Gabor_rotation : indicates the relative rotation direction of the second Gabor grating compared to the first one: "clockwise" or "counterclockwise".
