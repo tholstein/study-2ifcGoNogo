@@ -21,4 +21,6 @@ The dataset hosted on OSF includes:
 
 ---
 
-📌 **Note:** If you use these data in your work, please cite the corresponding OSF project and consult the **"Citations"** section on the OSF page.
+📌 **Note:** If you use these data in your work, please cite the corresponding OSF project:
+Holstein, T., Sarrazin, J.-C., Berberian, B., & Desantis, A. (2026). Interplay of action-based prediction and top-down attention: EEG evidence for joint modulation of late perceptual processing. NeuroImage, 342, Article 122293. https://doi.org/10.1016/j.neuroimage.2026.122293
+
